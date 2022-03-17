@@ -28,7 +28,11 @@ Usage of our partner tools is also allowed to qualify for our challenge. Tools t
 
 # Judging criteria and prizes
 
-<to be added>
+<submission qualification>
+
+<judging criteria>
+
+<prizes>
 
 # Further resources
 
