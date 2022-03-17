@@ -1,6 +1,5 @@
 # CHALLENGE_PROTOCOL_LABS_STARTHACK22
 
-
 # Why Protocol Labs
 
 The open-source protocol IPFS and storage network Filecoin are deeply committed to nurturing hacker communities. Through our events and challenges, we encourage and empower developers and entrepreneurs to solve significant problems, ship innovative applications and shape the future of the web to be more decentralized, robust, and secure. 
@@ -47,6 +46,7 @@ Examples and practical implementations showcase:
 
 Ideas & Get Inspired:
 - Past project winners: https://hackathons.filecoin.io/
+
 Grants:
 - https://grants.filecoin.io/
 - https://www.youtube.com/watch?v=9GzUqgU23o4
