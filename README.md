@@ -27,12 +27,25 @@ Usage of our partner tools is also allowed to qualify for our challenge. Tools t
 
 # Judging criteria and prizes
 
-<submission qualification>
+## Qualifying criteria for prize:
 
-<judging criteria>
+- Filecoin / IPFS used via any of the tools or services mentioned above and are a necessary component for the project to function.
+- Using an IPFS HTTP gateway doesn’t count as building on top of IPFS. Exclusively basing your submission on that does not make you eligible for prizes.
 
-<prizes>
+## Judging criteria:
 
+1. **Design:** Is it easy to use? Does the visual design delight you? If targeting developers, is the experience smooth and intuitive?
+2. **Novelty/Originality:** Does it have unique and novel features or combine features of other products or services in a unique and novel way?
+3. **Technical Accomplishment:** Is the code elegant, clean, and technically interesting? Is the project complete? Does the project interact with IPFS/Filecoin under-the-hood (i.e., more than simply retrieve a CID from a gateway)?
+4. **Potential Impact:** Does it fill a gap in the universe, and have the potential to be used frequently by a large, growing and diverse audience or market?
+5. **Creativity/Fun/Wow-Factor:** Is it creative and put a smile on people’s faces?
+
+## Challenge bounty
+
+|  Challenge statement |  PRIZE |
+|---|---|
+|  Best use of IPFS and/or Filecoin |  Grand Prize 1000 CHF <br /> 2x Runner-ups Prizes 500 CHF |
+  
 # Further resources
 
 Video resources to get started:
