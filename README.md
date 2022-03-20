@@ -14,13 +14,15 @@ The **Interplanetary Filesystem (IPFS)** is a peer-to-peer network and protocol 
 
 # Challenge statement 
 
+Challenge statement from IPFS and Filecoin is very simple:
+
+:star: The best use of IPFS for content-addressing and/or Filecoin for decentralized storage or anything that builds on top of either :star:
+
+That means you can develop your project for any partner cases and use IPFS/Filecoin technology stack to qualify for our prize! 
 
 |  Challenge statement |  PRIZE |
 |---|---|
 |  **Best use of IPFS and/or Filecoin** |  Grand Prize 1000 CHF <br /> 2x Runner-up Prizes 500 CHF |
-
-You can develop your project for any of the cases and use IPFS/Filecoin technology stack to qualify for our prize. 
-
 
 
 # Tools and resources
